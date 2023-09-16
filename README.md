@@ -15,7 +15,7 @@ _____________________________________
 how to try it?
 1- extract the the rar file.
 2- but it in xampp htdocs.
-3- open php my admin and include the database provided inside the file.
+3- open php my admin and import the database provided inside the file you extracted.
 4- try to signup (only managament and IT are usable they are enough to get the Idea. If you try others that I did not builed you'll have errors.).
 
 After login try also to give suggestion it will be stored in the data-base.
