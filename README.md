@@ -17,7 +17,7 @@ how to try it?
 2- but it in xampp htdocs.
 3- open php my admin and import the database provided inside the file you extracted.
 4- try to signup (only managament and IT are usable they are enough to get the Idea. If you try others that I did not builed you'll have errors.).
-
+you'll recieve verification verification via AWS (amazon web services).
 After login try also to give suggestion it will be stored in the data-base.
 
 WARNING: DO NOT TRY OTHER SECTORS WHEN SIGNING UP AS I MENTIONED. 
